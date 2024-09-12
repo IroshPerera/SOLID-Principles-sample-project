@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 // This class is responsible for generating the report
 public class ReportGenerator {

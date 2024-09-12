@@ -1,4 +1,4 @@
-package com.webmotech.oc.bad;
+package com.webmotech.Oc.bad;
 
 public class Main {
     public static void main(String[] args) {

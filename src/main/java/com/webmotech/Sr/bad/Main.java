@@ -1,4 +1,4 @@
-package com.webmotech.sr.bad;
+package com.webmotech.Sr.bad;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 //This is a concrete implementation of the Report interface
 //It generates a yearly report

@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 // This class is a concrete implementation of the Report interface
 // It generates a monthly report

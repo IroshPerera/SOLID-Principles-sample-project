@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 
 public class Main {

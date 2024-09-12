@@ -1,4 +1,4 @@
-package com.webmotech.oc.bad;
+package com.webmotech.Oc.bad;
 
 public class ReportService {
     public void generateReport(String type) {

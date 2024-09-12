@@ -1,4 +1,4 @@
-package com.webmotech.oc.good;
+package com.webmotech.Oc.good;
 
 public class ReportGenerator {
     private ReportFormatter formatter;

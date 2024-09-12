@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 // This interface is responsible for generating the report
 public interface Report {

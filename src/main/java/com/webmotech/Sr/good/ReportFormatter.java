@@ -1,4 +1,4 @@
-package com.webmotech.sr.good;
+package com.webmotech.Sr.good;
 
 // This class is responsible for formatting the report
 public class ReportFormatter {

@@ -1,4 +1,4 @@
-package com.webmotech.oc.good;
+package com.webmotech.Oc.good;
 
 public class ReportFormatter {
     public void format(Report report) {
